@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+header{
+    background-color: lightgray;
+    text-align: center;   
+    
+}
+nav{
+    border: 1px solid lightgray;
+    background-color: gray;
+    
+}
+ul > li {
+    
+    list-style-type: none;
+}
+
+a{
+    
+    text-decoration: none;
+    color: white;
+}
+
